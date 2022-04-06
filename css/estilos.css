@@ -1,6 +1,6 @@
 body
 {
-    color:rgb(0, 62, 232);
+    color:rgb(108, 108, 108);
     text-align: left;
     font-family: "Arial";
     font-size: 30px;
@@ -16,6 +16,12 @@ body
     margin: 0;
     padding: 0.5em;
     text-align: left;
+}
+#cabecera #tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0 8em;
 }
 #container
 {
